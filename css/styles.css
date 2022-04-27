@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500;900&display=swap');
+
+body {
+  font-family: 'Roboto'
+  background-color: #12345;
+  color: #123
+}
+
+h1, h3 {
+  font-family: 'Roboto', cursive;
+  color: navy;
+}
+
+p {
+  color: black;
+}
+
+.sidebar {
+  color: blue;
+  margin: 100px;
+}
+
+body {
+  background-color: #skyblue;
+  background-image: url("../images/BannerPic.png");
+  background-size: 800px auto;
+  background-repeat: no-repeat;
+  background-position: 50% 25%
+}
